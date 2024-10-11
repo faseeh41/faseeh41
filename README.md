@@ -52,6 +52,10 @@ Here are some ideas to get you started: -->
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=000000" height="25px"/>
+  <img alt="Render" src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render&logoColor=white" height="25px"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-FFFFFF?style=flat-square&logo=netlify&logoColor=00C7B7" height="25px"/>
+  
 </p>
 
 ## ❤️ Let's get connected:
@@ -60,3 +64,6 @@ Here are some ideas to get you started: -->
 </p>
 
 ## 🤝 Support Me:
+
+<a href="buymeacoffee.com/rajafaseehp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
